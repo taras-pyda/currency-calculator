@@ -1,0 +1,36 @@
+@import '../../styles/utils';
+
+.Header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: center;
+  column-gap: 40px;
+  height: $h-header;
+  border-bottom: 1px solid $c-grey;
+  
+  &__Currency {
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    column-gap: 10px;
+  }
+  
+  &__Currency-title {
+    font-size: 44px;
+    line-height: 60px;
+  }
+
+  &__Currency-exchange-rates {
+    display: grid;
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  &__Currency-rate {
+    color: $c-red;
+  }
+}
