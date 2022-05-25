@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/currency-calculator/static/css/main.607f490c.css",
+    "main.js": "/currency-calculator/static/js/main.b7489e9a.js",
+    "static/media/Poppins-Regular.ttf": "/currency-calculator/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "index.html": "/currency-calculator/index.html",
+    "main.607f490c.css.map": "/currency-calculator/static/css/main.607f490c.css.map",
+    "main.b7489e9a.js.map": "/currency-calculator/static/js/main.b7489e9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.607f490c.css",
+    "static/js/main.b7489e9a.js"
+  ]
+}
